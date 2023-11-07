@@ -1,4 +1,1 @@
-ls git-test
-
-cd
-cd ..
+Hello everybody!
